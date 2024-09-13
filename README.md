@@ -2,7 +2,7 @@ Team: Chloé Morali and Anagha Nair
 
 Technologies Used: OpenWrt, TP-Link Archer C7 Router, VLANs, React Native/ Expo Go, and Firebase's Firestore
 
-![IoTsolateLogo](https://github.com/user-attachments/assets/d334462a-0977-4788-b691-47e709e9fd4d)
+<img width="535" alt="IoTsolatteAppLogo" src="https://github.com/user-attachments/assets/912d1621-88da-4ea5-b0e0-e8fcfda70cc9">
 
 # IoTsolate: Network Microsegmentation for Securing and Managing IoT Devices
 
