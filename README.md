@@ -13,5 +13,5 @@ IoTsolate is a tool my partner and I developed to protect IoT devices from the i
 Although IoT devices improve everyday life in various ways, they are susceptible to security threats, impacting users in all environments. As the number of IoT devices increases, the attack surface expands exponentially. We believe that security techniques that isolate devices on a network should become mainstream, as they are critical for robust network security. Our solution, IoTsolate, offers a cost-effective, accessible, and scalable approach to enhancing IoT security for everyday users and small businesses, and it can also be used for research purposes.
 
 <div align="center">
-  <img width="300" alt="IoTsolateAppScreens" src="https://github.com/user-attachments/assets/08d3d0c6-6045-476e-beba-1e207c69b1ed">
+  <img width="6526" alt="IoTsolateAppScreens" src="https://github.com/user-attachments/assets/08d3d0c6-6045-476e-beba-1e207c69b1ed">
 </div>
